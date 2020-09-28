@@ -37,3 +37,9 @@ p::after {
     content: 'Read More >>';
     color: blue;
 }
+
+.first-section p::first-letter {
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
